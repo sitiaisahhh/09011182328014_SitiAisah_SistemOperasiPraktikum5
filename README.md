@@ -3,6 +3,7 @@ Nama : Siti Aisah<BR/>
 Nim : 09011182328014<BR/>
 Kelas : SK3B<BR/>
 <h1>TUGAS Job Control PRAKTIKUM 5</h1>
+
 1. Eksekusi seluruh profile yang ada : <BR/>
 
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut : <BR/>
