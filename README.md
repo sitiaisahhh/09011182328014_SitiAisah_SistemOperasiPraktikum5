@@ -125,5 +125,5 @@ d. Ulangi instruksi pada history bufer nomor 150 <BR/>
 $ !150 <BR/>
 e. Ulangi instruksi dengan prefix “ls” <BR/>
 $ !ls<BR/>
-<img src="https://github.com/user-attachments/assets/895b5b5d-2196-42a2-9722-275b63d870dd" width=500/><BR/>
 <img src="https://github.com/user-attachments/assets/b4d99059-ee73-4635-a4d4-87beeb718f00" width=500/><BR/>
+<img src="https://github.com/user-attachments/assets/895b5b5d-2196-42a2-9722-275b63d870dd" width=500/><BR/>
