@@ -31,8 +31,6 @@ $ exit <BR/>
 kemudian gunakan opsi – sebagai berikut : <BR/>
 $ su – mahasiswa <BR/>
 $ exit <BR/>
-Jelaskan perbedaan kedua utilitas tersebut. <BR/>
-penjelasan : Perintah su mahasiswa hanya mengganti pengguna tanpa mengubah environment dan direktori kerja. Sedangkan su - mahasiswa mengganti pengguna sekaligus menjalankan sesi shell login penuh untuk pengguna baru termasuk perpindahan ke direktori home pengguna. Perintah exit kemudian digunakan untuk keluar dari sesi shell pengguna yang baru dan kembali ke pengguna sebelumnya.
 <img src="https://github.com/user-attachments/assets/0dc9b036-cd0c-4855-8d3a-65648d2af255" width=500/><BR/>
 2. Prompt String (PS) <BR/>
 
